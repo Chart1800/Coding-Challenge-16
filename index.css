@@ -1,0 +1,26 @@
+body {
+  background-color:beige;  
+}
+.MeetTheTeamPage{
+  padding: 26px;
+  border-radius: 12px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.MeetTheTeamPage h1 {
+  font-size: 3.5em;
+text-align: center;
+}
+.MeetTheTeamPage h2 {
+  font-size: 2em;
+}
+.MeetTheTeamPage h3 {
+font-size: 2em;
+}
+.MeetTheTeamPage h4 {
+  font-size: 2em;
+}
+.MeetTheTeamPage p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
